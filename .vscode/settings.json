@@ -33,5 +33,8 @@
   },
   // barrelr
   "barrelr.lineEnding": "LF",
-  "cSpell.language": "pt-BR"
+  "cSpell.language": "pt-BR",
+  "cSpell.words": [
+    "Mock"
+  ]
 }
